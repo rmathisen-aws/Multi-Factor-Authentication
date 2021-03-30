@@ -6,6 +6,7 @@ AWS Multi-Factor Authentication (MFA) is a simple best practice that adds an ext
 ### Summary:
 In this demo, we'll be setting up Multi-Factor Authentication for the User that's currently logged in. The Authentication will be through an Authenticator app which is installed on your mobile device or computer, and we will connect our User to that device. We will test the MFA to confirm that it is properly working.
 
+\
 Account dropdown → My Security Credentials 
 AWS IAM Credentials tab → scroll down to Multi-Factor Authentication → Assign MFA device
 
